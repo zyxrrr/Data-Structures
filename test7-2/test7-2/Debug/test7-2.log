@@ -1,0 +1,23 @@
+﻿生成启动时间为 2016/11/10 11:07:55。
+     1>项目“D:\WorkSpaceC\test7-2\test7-2\test7-2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\ProgramFilesZyx\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\workspacec\test7-2\test7-2\源.cpp(78): error C2146: 语法错误: 缺少“;”(在标识符“P”的前面)
+     1>d:\workspacec\test7-2\test7-2\源.cpp(78): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>d:\workspacec\test7-2\test7-2\源.cpp(102): error C2039: “P”: 不是“GNode”的成员
+                 d:\workspacec\test7-2\test7-2\源.cpp(73) : 参见“GNode”的声明
+     1>d:\workspacec\test7-2\test7-2\源.cpp(102): error C2228: “.x”的左边必须有类/结构/联合
+                 d:\workspacec\test7-2\test7-2\源.cpp(73) : 参见“GNode”的声明
+     1>d:\workspacec\test7-2\test7-2\源.cpp(102): error C2228: “.y”的左边必须有类/结构/联合
+     1>d:\workspacec\test7-2\test7-2\源.cpp(104): error C2039: “P”: 不是“GNode”的成员
+                 d:\workspacec\test7-2\test7-2\源.cpp(73) : 参见“GNode”的声明
+     1>d:\workspacec\test7-2\test7-2\源.cpp(104): error C2228: “.x”的左边必须有类/结构/联合
+     1>d:\workspacec\test7-2\test7-2\源.cpp(105): error C2039: “P”: 不是“GNode”的成员
+                 d:\workspacec\test7-2\test7-2\源.cpp(73) : 参见“GNode”的声明
+     1>d:\workspacec\test7-2\test7-2\源.cpp(105): error C2228: “.y”的左边必须有类/结构/联合
+     1>已完成生成项目“D:\WorkSpaceC\test7-2\test7-2\test7-2.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.25
