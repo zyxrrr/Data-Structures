@@ -1,3 +1,3 @@
-# Data-Structures
+# CodeCraft Codes
 
-Some after class homework.
+http://codecraft.devcloud.huaweicloud.com/
